@@ -23,6 +23,6 @@ A Data Science project I completed during my junior year. The project's idea is 
 
 Breifly, the project generates a maze and solves it. _**Demo gif is shown below!**_. The user first chooses the maze size, then the maze is generated. After that the user can pick the solving algorithm of his choice. The maze always starts at the top left corner and ends at the bottom right corner.
 
-The project utilizes graph traversal and shortest path Algorithms, namely DFS, BFS, Dijkstra, and A* with L2-norm heuristic. The project is fully coded in C++. All graphics are basically done from scratch. The library used for the graphics is SFML. Every single element drawn on screen is a rectangle, it is all rectangle manipulations in SFML.
+The project utilizes graph traversal and shortest path Algorithms, namely DFS, BFS, Dijkstra, and A* with L1-norm heuristic. The project is fully coded in C++. All graphics are basically done from scratch. The library used for the graphics is SFML. Every single element drawn on screen is a rectangle, it is all rectangle manipulations in SFML.
 
 ![Demo](demo2.gif)
