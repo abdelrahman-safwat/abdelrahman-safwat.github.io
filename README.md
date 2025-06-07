@@ -1,5 +1,5 @@
 # Welcome!
-feel free to explore some of my projects
+Feel free to explore some of my projects.
 
 
 # [Graduation Project](https://github.com/AhmedSayedOmar/Motion_prediction-team)
